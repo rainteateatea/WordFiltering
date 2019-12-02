@@ -1,0 +1,69 @@
+2  Poll: What are you doing with istio in 2019?  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  0.8249983244799641  poll  right
+3  Poll: Is â€œ-3â€ a Whole Number?  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  0.8249983244799641  poll  right
+4  Poll: Bathroom amenities for your Airbnb rental?  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  0.8249983244799641  poll  right
+5  Poll: Would you like a separate page for â€œHN Pollsâ€, just like â€œJobsâ€?  poll  -6.035811943050469  -6.6790990364842715  -6.808460806117992  -2.1793230493026785  poll  right
+6  Poll: Did you see the alternative parse of the title?  poll  -6.512933197770131  -6.6790990364842715  -6.808460806117992  0.8254281062883226  poll  right
+7  Poll: Which search engine do you use most regularly?  poll  -5.8139631934341125  -6.201977781764609  -6.808460806117992  1.3022628870649438  poll  right
+8  Show HN: Enterprise League - Free B2B Platform for SME  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  show_hn  wrong
+9  Show HN: Assets Generator (Generate Icons and Images for Mobile Apps)  poll  -5.558690688330806  -6.201977781764609  -6.33133955139833  -3.610272957084889  show_hn  wrong
+10  Show HN: WebFPGA â€“ Rapid FPGA Development for Beginners  ask_hn  -3.452235357416519  -3.1933776100026914  -3.849419413796899  -3.6107027388932478  show_hn  wrong
+11  Show HN: Slack Notifications for BitBucket and Gitlab  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  show_hn  wrong
+12  Show HN: Help me propose to my girlfriend  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  show_hn  wrong
+13  Show HN: Poli â€“ An easy-to-use SQL reporting application built for SQL lovers  poll  -2.7532653530805002  -3.670498864722354  -3.372298159077237  -0.6059515833022464  show_hn  wrong
+14  Show HN: Experimenting WASM: Flipping Images with Rust and JavaScript  poll  -3.452235357416519  -3.1933776100026914  -3.849419413796899  -0.6059515833022464  show_hn  wrong
+15  Show HN: Lannister â€“ open-source wealth manager app  show_hn  -3.452235357416519  -3.670498864722354  -3.372298159077237  -3.6107027388932478  show_hn  right
+16  Show HN: A globally distributed, cross-region/cloud DB in 25 regions in 40s  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  show_hn  wrong
+17  Show HN: Status-checks â€“ Integrate with GitHub status checks with just functions  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  show_hn  wrong
+18  Show HN: Spellout â€“ Simple expressions (set) evaluation microservice  poll  -6.512933197770131  -6.6790990364842715  -6.33133955139833  -3.6102729570848893  show_hn  wrong
+19  Show HN: Various README templates and tips on writing high-quality documentation  story  -5.8139631934341125  -6.6790990364842715  -5.854218296678669  -6.61502411267589  show_hn  wrong
+20  Show HN: Find the best performing Mac/Macbook/iMac for your budget  poll  -6.035811943050469  -6.201977781764609  -6.808460806117992  -3.610272957084889  show_hn  wrong
+21  Ask HN: Examples for badly designed (web) APIs  show_hn  -3.452235357416519  -3.670498864722354  -3.372298159077237  -3.6107027388932478  ask_hn  wrong
+22  Ask HN: Why Facebook is the only company that creates their own cryptocurrency?  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  -0.6059515833022464  ask_hn  wrong
+23  Ask HN: What can I do to accelerate scientific research?  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  ask_hn  wrong
+24  Ask HN: How do you improve something, anything?  ask_hn  -3.452235357416519  -3.1933776100026914  -3.849419413796899  -3.6107027388932478  ask_hn  right
+25  Ask HN: How do I get a technology I created from my old company?  poll  -6.512933197770131  -6.6790990364842715  -6.808460806117992  -0.6055218014938879  ask_hn  wrong
+26  Ask HN: How do you document architecture and design proposals?  show_hn  -3.452235357416519  -3.670498864722354  -3.372298159077237  -3.6107027388932478  ask_hn  wrong
+27  Ask HN: â€œContact us for pricingâ€ nonsense  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  ask_hn  wrong
+28  Ask HN: Do I belong here if I'm not CS degree?  ask_hn  -3.452235357416519  -3.1933776100026914  -3.849419413796899  -3.6107027388932478  ask_hn  right
+29  Ask HN: Should I start a startup in Australia?  poll  -6.035811943050469  -6.6790990364842715  -6.808460806117992  -3.6102729570848893  ask_hn  wrong
+30  Ask HN: Learn Arabic?  ask_hn  -3.452235357416519  -2.9715288603863352  -3.849419413796899  -3.6107027388932478  ask_hn  right
+31  Ask HN: Do you use anything for automated code review?  poll  -2.7532653530805002  -3.1933776100026914  -3.849419413796899  -0.12911680252562524  ask_hn  wrong
+32  Ask HN: How to differentiate a work email id from a personal email id?  story  -2.9751141026968564  -3.1933776100026914  -3.849419413796899  -3.6107027388932478  ask_hn  wrong
+33  Ask HN: While developing, do you run all the dependent services on your machine?  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  ask_hn  wrong
+34  Ask HN: Does anybody else uses only laptop as a main screen?  poll  -5.8139631934341125  -6.201977781764609  -6.808460806117992  -0.12868702071726676  ask_hn  wrong
+35  Ask HN: Best way to get a list of all public email providers  poll  -11.68008636903803  -12.219178125288444  -12.72654359076018  -6.614164549059174  ask_hn  wrong
+36  Ask HN: Do you have a side project to sell? Post it here  poll  -6.035811943050469  -6.6790990364842715  -6.33133955139833  -3.6102729570848893  ask_hn  wrong
+37  Ask HN: Good Articles on UX Design?  show_hn  -3.452235357416519  -3.670498864722354  -3.372298159077237  -3.6107027388932478  ask_hn  wrong
+38  Ask HN: What tools to grab slices of production?  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  ask_hn  wrong
+39  Ask HN: What's your product's log volume?  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  ask_hn  wrong
+40  Ask HN: Platforms for subscription payment processing non-US  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  ask_hn  wrong
+41  Ask HN: Encryption and 5TB+ Backups  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  ask_hn  wrong
+42  The multiparty symmetrical Schnorr signature scriptless script shuffle  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  story  right
+43  Soon you won't need a passport at the airport. Here's why that's bad news  story  -5.33684193871445  -6.6790990364842715  -6.808460806117992  -6.61502411267589  story  right
+44  Remittances sent by foreign workers back to their home amount to $700B  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+45  Bernie Sanders' 2020 campaign unveils tech tool to increase its voter database  poll  -6.035811943050469  -6.6790990364842715  -6.808460806117992  -3.6102729570848893  story  wrong
+46  â€œHey Google, how many legs does a horse have?â€  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  -0.6059515833022464  story  wrong
+47  Pedigree Collapse  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+48  Global solar rooftop PV system performance check tool  poll  -8.619388528684418  -9.687699208246189  -9.767502198439086  -6.614594330867532  story  wrong
+49  Across the world, women outlive men. This is why  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+50  How Artificial intelligence systems could threaten democracy  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  -0.6059515833022464  story  wrong
+51  Scanimate: The Origins of Computer Motion Graphics  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+52  Correspondentâ€™s first U.S. employee speaks out  poll  -3.452235357416519  -3.670498864722354  -3.849419413796899  -0.6059515833022464  story  wrong
+53  How to Create Custom OPC UA Information Models  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  story  right
+54  Getting to Know Python 3.7- Data Classes, Async-Await and More  poll  -6.512933197770131  -6.6790990364842715  -6.808460806117992  -0.304706643569585  story  wrong
+55  Thoughts on macOS Package Managers  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+56  Unprotected Database Puts 65% of American Households at Risk  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+57  DHS Used a Private Intelligence Firm to Monitor Family Separation Protests  poll  -5.33684193871445  -6.201977781764609  -6.808460806117992  -3.133438176308268  story  wrong
+58  I Canâ€™t Answer Standardized Test Questions About My Own Poems (2017)  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+59  Hotmail, MSN, and Outlook.com Email Breach Targeted Cryptocurrency Users  poll  -6.035811943050469  -6.6790990364842715  -6.808460806117992  -3.610272957084889  story  wrong
+60  Biomarker for chronic fatigue syndrome identified  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+61  How Cults Made America  story  -2.7532653530805002  -3.1933776100026914  -3.849419413796899  -3.6107027388932478  story  right
+62  Slime molds display surprisingly complex decision-making behavior  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+63  Chinese cosmic-ray observatory begins operation  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  story  right
+64  The Race to Develop the Moon  story  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -3.6107027388932478  story  right
+65  Oddly Satisfying Vol.5  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+66  The Rise of Genetic Genealogy  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+67  On the Logical Geometry of the Tetrahedron [pdf]  story  -0.39153751706290707  -0.6618986929604364  -0.8903780214758058  -0.6063813651106049  story  right
+68  How to fix a bug in an open-source project  poll  -6.512933197770131  -6.6790990364842715  -5.632369547062312  -3.6102729570848893  story  wrong
+69  In Month After â€˜13 Reasons Whyâ€™ Debut on Netflix, Study Finds Teen Suicide Grew  poll  -2.9751141026968564  -3.670498864722354  -3.849419413796899  -0.6059515833022464  story  wrong
+70  Meta-Sim: Learning to generate synthetic datasets  ask_hn  -3.452235357416519  -2.9715288603863352  -3.849419413796899  -3.6107027388932478  story  wrong
